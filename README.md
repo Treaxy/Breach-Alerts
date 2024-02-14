@@ -10,15 +10,15 @@ You can install this plugin, download the .dll file and placing it in ``AppData\
 Open your Remote Admin Console and write this commands:
 
 **Main Commands:**
-scp939alert
-scp173alert
-scp096alert
+scp939alert,
+scp173alert,
+scp096alert,
 scp049alert
 
 **ShortWays:**
-s049
-s173
-s096
+s049,
+s173,
+s096,
 s939
 
 
